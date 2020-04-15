@@ -11,9 +11,3 @@ npm install
 npm run dev
 ```
 
-
-### 本案例升级了 
-
-1. 组件化的[webpack模版](https://segmentfault.com/a/1190000017745622)
-2. 组件化的可视化模版 [artg-2019-week5]
-
