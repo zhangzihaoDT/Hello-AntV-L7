@@ -1,10 +1,5 @@
-# Modular visualization components
-
-### 本案例升级了 
-
-1. 组件化的[webpack模版](https://segmentfault.com/a/1190000017745622)
-2. 组件化的可视化模版 [artg-2019-week5]
-
+# Hello-AntV-L7
+查看案例：https://zhangzihaodt.github.io/Hello-AntV-L7/index.html
 
 ## Install
 ```
@@ -15,4 +10,10 @@ git remote remove origin
 npm install
 npm run dev
 ```
-# Hello-AntV-L7
+
+
+### 本案例升级了 
+
+1. 组件化的[webpack模版](https://segmentfault.com/a/1190000017745622)
+2. 组件化的可视化模版 [artg-2019-week5]
+
